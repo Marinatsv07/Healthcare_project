@@ -41,6 +41,3 @@ Detailed Results: The XGBoost model without PCA emerged as the superior model, y
 
 The analysis confirmed that XGBoost without PCA is ideally suited for operational deployment due to its robust performance across various metrics. This model not only excels at predicting drug persistency but also offers insights into the features most affecting persistency, which can guide more targeted interventions.
 
-EDA Presentation: https://docs.google.com/presentation/d/1d6tukaI1notL6yQm5jVOCqzg_iWspj3d/edit?usp=sharing&ouid=112271621071985260100&rtpof=true&sd=true
-
-Github Link: https://github.com/S0n0f1saac/LISUM33-GroupProject/Week_13
